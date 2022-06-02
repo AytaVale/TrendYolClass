@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\trendyol\trendyol\bin\Debug\net5.0\trendyol.exe
+C:\Users\User\source\repos\trendyol\trendyol\bin\Debug\net5.0\trendyol.deps.json
+C:\Users\User\source\repos\trendyol\trendyol\bin\Debug\net5.0\trendyol.runtimeconfig.json
+C:\Users\User\source\repos\trendyol\trendyol\bin\Debug\net5.0\trendyol.runtimeconfig.dev.json
+C:\Users\User\source\repos\trendyol\trendyol\bin\Debug\net5.0\trendyol.dll
+C:\Users\User\source\repos\trendyol\trendyol\bin\Debug\net5.0\ref\trendyol.dll
+C:\Users\User\source\repos\trendyol\trendyol\bin\Debug\net5.0\trendyol.pdb
+C:\Users\User\source\repos\trendyol\trendyol\obj\Debug\net5.0\trendyol.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\trendyol\trendyol\obj\Debug\net5.0\trendyol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\trendyol\trendyol\obj\Debug\net5.0\trendyol.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\trendyol\trendyol\obj\Debug\net5.0\trendyol.AssemblyInfo.cs
+C:\Users\User\source\repos\trendyol\trendyol\obj\Debug\net5.0\trendyol.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\trendyol\trendyol\obj\Debug\net5.0\trendyol.dll
+C:\Users\User\source\repos\trendyol\trendyol\obj\Debug\net5.0\ref\trendyol.dll
+C:\Users\User\source\repos\trendyol\trendyol\obj\Debug\net5.0\trendyol.pdb
+C:\Users\User\source\repos\trendyol\trendyol\obj\Debug\net5.0\trendyol.genruntimeconfig.cache
