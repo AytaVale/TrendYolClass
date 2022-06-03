@@ -17,8 +17,8 @@ namespace trendyol
             payment1.card = Console.ReadLine();
             Console.WriteLine("Kartin bitme tarixini qeyd edin: (dd/yy formasinda) ");
             payment1.CardDate = Console.ReadLine();
-            Console.Write("Kartin CV kodunu daxil edin: ");
-            payment1.CardCV = int.Parse(Console.ReadLine());
+            Console.Write("Kartin CVV kodunu daxil edin: ");
+            payment1.CardCVV = int.Parse(Console.ReadLine());
             payment1.AboutPayment();
         }
     }
