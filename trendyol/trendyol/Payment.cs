@@ -15,14 +15,14 @@ namespace trendyol
         public int PaymentId { get; set; }
         public string CardType { get; set; }
         public string CardDate { get; set; }
-        public int CardCV { get; set; }
+        public int CardCVV { get; set; }
         public void AboutPayment()
         {
             StringBuilder info = new StringBuilder();
             info.Append("Kart novu: " + this.CardType + "\n");
             info.Append("Nomresi: " + this.card + "\n");
             info.Append("Muddeti: " + this.CardDate + "\n");
-            info.Append("Kodu: " + this.CardCV + "\n");
+            info.Append("Kodu: " + this.CardCVV + "\n");
             Console.WriteLine(info);
         }
     }
