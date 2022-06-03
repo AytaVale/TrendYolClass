@@ -30,6 +30,10 @@ namespace trendyol
                 customer1.CustomerNumber = Console.ReadLine();
                 Console.WriteLine(customer1.CustomerNumber);
             }
+            else 
+            {
+                 Console.WriteLine("Melumatlari duzgun daxil edin.");
+            }
         }
     }
 }
